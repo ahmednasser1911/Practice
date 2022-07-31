@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BubberDinner.API",
+    "\\BubberDinner.Application",
+    "\\BubberDinner.Application\\Services"
+  ],
+  "SelectedNode": "\\BubberDinner.Application\\Services\\AuthServices.cs",
+  "PreviewInSolutionExplorer": false
+}
