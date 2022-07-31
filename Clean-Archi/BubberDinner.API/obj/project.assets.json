@@ -1230,19 +1230,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s\\.nuget\\packages\\": {}
+    "C:\\Users\\Ahmed-pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.API\\BubberDinner.API.csproj",
+      "projectUniqueName": "D:\\Practice\\Clean-Archi\\BubberDinner.API\\BubberDinner.API.csproj",
       "projectName": "BubberDinner.API",
-      "projectPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.API\\BubberDinner.API.csproj",
-      "packagesPath": "C:\\Users\\s\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.API\\obj\\",
+      "projectPath": "D:\\Practice\\Clean-Archi\\BubberDinner.API\\BubberDinner.API.csproj",
+      "packagesPath": "C:\\Users\\Ahmed-pc\\.nuget\\packages\\",
+      "outputPath": "D:\\Practice\\Clean-Archi\\BubberDinner.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ahmed-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1256,14 +1256,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Application\\BubberDinner.Application.csproj": {
-              "projectPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Application\\BubberDinner.Application.csproj"
+            "D:\\Practice\\Clean-Archi\\BubberDinner.Application\\BubberDinner.Application.csproj": {
+              "projectPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Application\\BubberDinner.Application.csproj"
             },
-            "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj": {
-              "projectPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj"
+            "D:\\Practice\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj": {
+              "projectPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj"
             },
-            "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj": {
-              "projectPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj"
+            "D:\\Practice\\Clean-Archi\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj": {
+              "projectPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Infrastructure\\BubberDinner.Infrastructure.csproj"
             }
           }
         }
@@ -1309,7 +1309,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

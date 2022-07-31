@@ -22,3 +22,15 @@ D:\Personal Projects\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner
 D:\Personal Projects\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\refint\BubberDinner.Core.dll
 D:\Personal Projects\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.pdb
 D:\Personal Projects\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\ref\BubberDinner.Core.dll
+D:\Practice\Clean-Archi\BubberDinner.Core\bin\Debug\net6.0\BubberDinner.Core.deps.json
+D:\Practice\Clean-Archi\BubberDinner.Core\bin\Debug\net6.0\BubberDinner.Core.dll
+D:\Practice\Clean-Archi\BubberDinner.Core\bin\Debug\net6.0\BubberDinner.Core.pdb
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.csproj.AssemblyReference.cache
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.AssemblyInfoInputs.cache
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.AssemblyInfo.cs
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.csproj.CoreCompileInputs.cache
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.dll
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\refint\BubberDinner.Core.dll
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\BubberDinner.Core.pdb
+D:\Practice\Clean-Archi\BubberDinner.Core\obj\Debug\net6.0\ref\BubberDinner.Core.dll

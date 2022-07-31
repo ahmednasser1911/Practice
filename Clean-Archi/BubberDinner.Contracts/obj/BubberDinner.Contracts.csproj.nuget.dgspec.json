@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj": {}
+    "D:\\Practice\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj": {
+    "D:\\Practice\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj",
+        "projectUniqueName": "D:\\Practice\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj",
         "projectName": "BubberDinner.Contracts",
-        "projectPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj",
-        "packagesPath": "C:\\Users\\s\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Contracts\\obj\\",
+        "projectPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Contracts\\BubberDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ahmed-pc\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj": {
-                "projectPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj"
+              "D:\\Practice\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj": {
+                "projectPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj"
               }
             }
           }
@@ -68,21 +68,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj": {
+    "D:\\Practice\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj",
+        "projectUniqueName": "D:\\Practice\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj",
         "projectName": "BubberDinner.Core",
-        "projectPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj",
-        "packagesPath": "C:\\Users\\s\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Projects\\Clean-Archi\\BubberDinner.Core\\obj\\",
+        "projectPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Core\\BubberDinner.Core.csproj",
+        "packagesPath": "C:\\Users\\Ahmed-pc\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Clean-Archi\\BubberDinner.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

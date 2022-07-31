@@ -2,6 +2,7 @@ using BubberDinner.Application;
 using BubberDinner.Infrastructure;
 
 using BubberDinner.Application.Services;
+using BubberDinner.API.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 {
@@ -22,6 +23,8 @@ var app = builder.Build();
         app.UseSwagger();
         app.UseSwaggerUI();
     }
+
+    app.UseErrorHandlerMiddleware();
 
     app.UseHttpsRedirection();
 

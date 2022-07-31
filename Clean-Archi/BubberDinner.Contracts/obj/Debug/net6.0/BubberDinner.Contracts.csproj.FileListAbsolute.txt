@@ -25,3 +25,18 @@ D:\Personal Projects\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\ref\Bub
 D:\Personal Projects\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Core.dll
 D:\Personal Projects\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Core.pdb
 D:\Personal Projects\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.CopyComplete
+D:\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.deps.json
+D:\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.dll
+D:\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.pdb
+D:\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Core.dll
+D:\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Core.pdb
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.AssemblyReference.cache
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfoInputs.cache
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfo.cs
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.CopyComplete
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.dll
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\refint\BubberDinner.Contracts.dll
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.pdb
+D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\ref\BubberDinner.Contracts.dll
