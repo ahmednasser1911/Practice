@@ -1,4 +1,5 @@
-﻿using BubberDinner.Application.Common.Interfaces.Auth;
+﻿using BubberDinner.API.Middleware.CustomModels;
+using BubberDinner.Application.Common.Interfaces.Auth;
 using BubberDinner.Application.Common.Interfaces.Persistence;
 using BubberDinner.Application.Models.Auth;
 using BubberDinner.Core.Entities;
@@ -42,8 +43,13 @@ namespace BubberDinner.Application.Services
         {
 
             // 1 - validate user exist 
-            if (userRepo.GetUserByEmail(input.user.Email) is not null) 
-                throw new Exception("user exist!");
+            if (userRepo.GetUserByEmail(input.user.Email) is not null)
+                throw new AuthException
+                {
+                    Message = "User Already Exist",
+                    Title = "Auth Exception",
+                    Status = 400
+                };
 
             // 2 - create user (generate uniqe id) & save to DB
             var user = new User

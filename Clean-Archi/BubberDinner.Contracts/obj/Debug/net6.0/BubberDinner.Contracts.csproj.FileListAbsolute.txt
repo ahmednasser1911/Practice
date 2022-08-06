@@ -40,3 +40,18 @@ D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Con
 D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\refint\BubberDinner.Contracts.dll
 D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.pdb
 D:\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\ref\BubberDinner.Contracts.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.deps.json
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.pdb
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Core.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Core.pdb
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.AssemblyReference.cache
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfoInputs.cache
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfo.cs
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.CopyComplete
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\refint\BubberDinner.Contracts.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.pdb
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Contracts\obj\Debug\net6.0\ref\BubberDinner.Contracts.dll

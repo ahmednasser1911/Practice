@@ -43,3 +43,18 @@ D:\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.A
 D:\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\refint\BubberDinner.Application.dll
 D:\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.pdb
 D:\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\ref\BubberDinner.Application.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.csproj.AssemblyReference.cache
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.AssemblyInfoInputs.cache
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.AssemblyInfo.cs
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\refint\BubberDinner.Application.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.pdb
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Application.deps.json
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Application.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Application.pdb
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Core.dll
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Core.pdb
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.csproj.CopyComplete
+D:\Personal Projects\Practice\Clean-Archi\BubberDinner.Application\obj\Debug\net6.0\ref\BubberDinner.Application.dll

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BubberDinner.Application.Models.Exceptions;
+using Microsoft.AspNetCore.Mvc;
 using System.Net;
 using System.Text.Json;
 
@@ -20,19 +21,19 @@ namespace BubberDinner.API.Middleware
             {
                 await _next(httpContext);
             }
-            catch (Exception ex)
+            catch (MainExecption ex)
             {
                 await HandelException(httpContext, ex);
             }
 
         }
 
-        public static Task HandelException(HttpContext httpContext, Exception ex)
+        public static Task HandelException(HttpContext httpContext, MainExecption ex)
         {
             var problemDetails = new ProblemDetails{
-                Type = "",
+                Type = ex.Title,
                 Title = ex.Message,
-                Status =(int)HttpStatusCode.InternalServerError,
+                Status = ex.Status,
             };
             var result = JsonSerializer.Serialize(problemDetails);
             return httpContext.Response.WriteAsync(result);
