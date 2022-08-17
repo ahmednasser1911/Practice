@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rww7RsRshfvpIMf9bYK7vEGeEJ3Hr4TnnrRZaHCozRg=",
+  "Source": "BreakFast.API",
+  "BasePath": "_content/BreakFast.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

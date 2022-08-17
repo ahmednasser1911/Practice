@@ -1,0 +1,12 @@
+D:\Practice\.NET 6 API\BreackFast.Contracts\bin\Debug\net6.0\BreackFast.Contracts.deps.json
+D:\Practice\.NET 6 API\BreackFast.Contracts\bin\Debug\net6.0\BreackFast.Contracts.dll
+D:\Practice\.NET 6 API\BreackFast.Contracts\bin\Debug\net6.0\BreackFast.Contracts.pdb
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\BreackFast.Contracts.csproj.AssemblyReference.cache
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\BreackFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\BreackFast.Contracts.AssemblyInfoInputs.cache
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\BreackFast.Contracts.AssemblyInfo.cs
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\BreackFast.Contracts.csproj.CoreCompileInputs.cache
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\BreackFast.Contracts.dll
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\refint\BreackFast.Contracts.dll
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\BreackFast.Contracts.pdb
+D:\Practice\.NET 6 API\BreackFast.Contracts\obj\Debug\net6.0\ref\BreackFast.Contracts.dll

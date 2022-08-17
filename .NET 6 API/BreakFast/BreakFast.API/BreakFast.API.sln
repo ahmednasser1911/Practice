@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakFast.API", "BreakFast.API.csproj", "{0ADC8193-036B-4938-989E-CB7C3986B6DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreackFast.Contracts", "..\BreackFast.Contracts\BreackFast.Contracts.csproj", "{C141B0D9-08D4-4052-8B37-61AEADE28692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ADC8193-036B-4938-989E-CB7C3986B6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADC8193-036B-4938-989E-CB7C3986B6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADC8193-036B-4938-989E-CB7C3986B6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADC8193-036B-4938-989E-CB7C3986B6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C141B0D9-08D4-4052-8B37-61AEADE28692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C141B0D9-08D4-4052-8B37-61AEADE28692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C141B0D9-08D4-4052-8B37-61AEADE28692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C141B0D9-08D4-4052-8B37-61AEADE28692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC1DB10-D142-4456-B5B2-317C59EF3296}
+	EndGlobalSection
+EndGlobal
